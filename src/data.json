@@ -1,0 +1,19 @@
+[
+  {
+    "term": "Lokalisatie"
+  },
+  {
+    "term": "Duur/Frequentie"
+  },
+  {
+    "term": "Geassocieerde symptomen",
+    "children": [
+      { "term": "aura's" },
+      { "term": "nausea" },
+      { "term": "amaurosis fuggax" }
+    ]
+  },
+  {
+    "term": "Diurnale component"
+  }
+]
